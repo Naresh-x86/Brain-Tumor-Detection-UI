@@ -1,6 +1,6 @@
 # Brain Tumor Detection App
 
-![Screenshot](https://github.com/Naresh-x86/Brain-Tumor-Detection-UI/images/image.png)
+![Screenshot](https://raw.githubusercontent.com/Naresh-x86/Brain-Tumor-Detection-UI/refs/heads/main/images/image.png)
 
 A user-friendly desktop application for brain tumor detection using MRI images, powered by a Convolutional Neural Network (CNN) in TensorFlow. This repository includes:
 - A ready-to-use GUI (`app.py`) for image analysis
